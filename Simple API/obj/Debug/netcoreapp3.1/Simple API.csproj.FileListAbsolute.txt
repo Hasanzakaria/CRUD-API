@@ -1,0 +1,60 @@
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.exe
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.deps.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.dll
+C:\Users\MSI\source\repos\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.pdb
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.RazorTargetAssemblyInfo.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.Manifest.cache
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.xml
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.dll
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.pdb
+C:\Users\MSI\source\repos\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.genruntimeconfig.cache
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.exe
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.deps.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.dev.json
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.dll
+E:\Simple API\Simple API\bin\Debug\netcoreapp3.1\Simple API.pdb
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csprojAssemblyReference.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csproj.CoreCompileInputs.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.MvcApplicationPartsAssemblyInfo.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfoInputs.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfo.cs
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.RazorTargetAssemblyInfo.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.Manifest.cache
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.xml
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.dll
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.pdb
+E:\Simple API\Simple API\obj\Debug\netcoreapp3.1\Simple API.genruntimeconfig.cache
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.exe
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.deps.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.runtimeconfig.dev.json
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.dll
+E:\SIMPLE CRUD API\Simple API\bin\Debug\netcoreapp3.1\Simple API.pdb
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csprojAssemblyReference.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.csproj.CoreCompileInputs.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.MvcApplicationPartsAssemblyInfo.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfoInputs.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.AssemblyInfo.cs
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.RazorTargetAssemblyInfo.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.Manifest.cache
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\staticwebassets\Simple API.StaticWebAssets.xml
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.dll
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.pdb
+E:\SIMPLE CRUD API\Simple API\obj\Debug\netcoreapp3.1\Simple API.genruntimeconfig.cache
